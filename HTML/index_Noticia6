@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EL VISCONDE</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="icon" type="image/x-icon/" href="IMG/favicon-32x32.png">..
+</head>
+<body>
+    <header>
+            <nav>
+                <a class="logo" href="index.html">EL VISCONDE</a>
+                <ul class="nav-list">
+                    <li>
+                        <a href="index.html">Início</a>
+                        <a href="index_Sobre.html">Sobre</a>
+                        <a href="index_Noticias.html">Notícias</a>
+                    </li>
+                </ul>
+            </nav>
+            <main></main>
+    </header>
+    <section>
+        <div class="conteudo">
+            <div class="bloco-1">
+        <img src="/HTML/IMG/WhatsApp Image 2024-09-18 at 09.46.46.jpeg" alt="News Image">
+        <h1>Professora Humilha Alunos Durante Aula com Revista Não Legível</h1>
+            <p>Na manhã de ontem, uma situação constrangedora ocorreu na Escola Municipal ABC, quando a professora Maria, responsável pela turma do 3º ano EM, supostamente humilhou os alunos ao utilizar uma revista mal feita e praticamente ilegível como material de aula.</p>
+            <p>Durante a aula, a professora apresentou a revista como material de apoio, enfatizando que, embora o conteúdo fosse valioso, não se tratava de uma comparação direta com os trabalhos dos alunos. “Essa revista é melhor do que qualquer trabalho que vocês já apresentaram”, afirmou.
+                 No entanto, a maneira como expressou isso acabou provocando um clima de desconforto na sala.</p>
+            
+                <p>Os alunos, que já enfrentavam dificuldades para decifrar os textos da revista, se sentiram desmotivados pelas críticas. Muitos tentaram explicar que a legibilidade do material estava comprometida, mas a professora não pareceu disposta a ouvir. 
+                    “Se vocês realmente quisessem aprender, conseguiriam ler isso sem problemas”, completou Maria, elevando o tom de voz.</p>
+            <p>Após a aula, um grupo de estudantes se reuniu para discutir a situação e manifestou sua insatisfação. “Ela disse que a revista era melhor que nosso trabalho, e isso nos deixou muito chateados.
+                 A gente se esforça, mas parece que não é suficiente”, relatou um aluno que preferiu não se identificar.</p>
+            <P>A situação rapidamente ganhou repercussão entre alunos e pais, levantando questões sobre a importância de um ambiente escolar respeitoso e construtivo.
+                 A direção da escola anunciou que irá investigar o ocorrido e promover um diálogo sobre a necessidade de abordagens pedagógicas mais encorajadoras.</P>
+                 <p>Tendo inclusive postagens no W (rede social nao banida pelo Moraes de Alexandria) dizendo "Hoje, comparei a aula de uma professora com a outra, uma valoriza o trabalho e recomenda melhorias, vendo somente aquele trabalho e pensando nos esforços daqueles alunos e em suas capacidades pessoais, enquanto a outra só soube falar sobre uma sala estupenda que fez um trabalho extraordinário fora de série, quando na verdade, era uma apresentação esplêndida com uma ideia ótima, e um trabalho a ser melhorado. 
+                    Ela descartou todos os esforços e focou em fazer argumentos incoerentes para vangloriar outro grupo, o que poderia causar intriga, comparações e humilhações, por isso, comparo-a com uma professora fora de série, afinal, ela nunca buscou comparar e nem mesmo alavancar o ego de outras pessoas, seus alunos só recebem um tipo de comparação: a comparação em suas próprias criações, se fez um trabalho que não usou sua total capacidade, 
+                    se melhorou em algum ponto, levando em conta não apenas a apresentação do trabalho como também o trabalho em si, inclusive, sempre prestou atenção ao conteúdo e na proposta.</p>
+                 <p>Este incidente serve como um lembrete de que a forma como os educadores se comunicam pode impactar profundamente a motivação e o bem-estar dos alunos,
+                     ressaltando a importância de um ambiente de aprendizado que valorize cada esforço individual.</p>
+        </section>
+    <div class="footer">
+        <div class="container">
+            <div class="containerX con1">
+                <p>© copyright todos os direitos reservados</p>
+        </div>
+    </div>
+</body>
+</html>
